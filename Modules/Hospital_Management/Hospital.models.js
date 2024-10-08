@@ -5,7 +5,7 @@ const HospitalSchema = new mongoose.Schema(
     name: {
       type: String,
       required: ture,
-    },
+    }, 
     addreshLine1: {
       type: String,
       required: ture,

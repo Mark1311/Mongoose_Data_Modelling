@@ -1,0 +1,20 @@
+{
+  "name": "data_modelling",
+  "version": "1.0.0",
+  "description": "This is Data Modelling System.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Modelling",
+    "Data_Modelling"
+  ],
+  "author": "Mark Varanval",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
+}
